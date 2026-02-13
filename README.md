@@ -56,13 +56,10 @@ It solves the problem of manual data entry for Equity Research Analysts by autom
 
 
 
-\### \*\*Sample Output\*\*
-
-\*(Upload your screenshot here later)\*
-
 
 
 ---
 
 \*Built by Kundan Singh | MBA in Finance \& Python Developer\*
+
 
